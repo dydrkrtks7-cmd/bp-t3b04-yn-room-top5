@@ -1,16 +1,4 @@
 User-agent: *
 Allow: /
 
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-User-agent: Yeti
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-Sitemap: https://t3b04-yn-room-top5.pages.dev/sitemap.xml
+Sitemap: https://gongdeok-hyperpublic-note.hwagok-karaoke-insider.xyz/sitemap.xml
